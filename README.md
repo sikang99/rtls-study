@@ -4,6 +4,7 @@
 ### Articles
 - 2021/01/25 [How Bluetooth + Ultrasound = Better RTLS Accuracy and Lower Cost](https://www.airfinder.com/blog/bluetooth-ultrasound-better-rtls-accuracy-lower-cost)
 - 2019/10/09 [Bluetooth for RTLS: Coverage vs Range](https://www.quuppa.com/bluetooth-for-rtls-coverage-vs-range/)
+- 2019/03/08 [UWB 위치 측위를 위한 기술 비교](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=intknk2&logNo=221483405252)
 - 2018/01/16 [RFID, UWB 등 다른 RTLS 기술과 Bluetooth RTLS의 비교](https://pntbiz.co.kr/index.php/2018/01/16/023/)
 
 
@@ -12,7 +13,7 @@
 
 
 ### Vendors
-- [geoplan](http://geoplan.host.whoisweb.net/) - BLE 5.0 RTLS
+- [geoplan](http://geoplan.host.whoisweb.net/) - BLE/UWB RTLS
 - [SEWIO](https://www.sewio.net/) - UWB RTLS
 
 
