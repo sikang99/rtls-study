@@ -2,11 +2,11 @@
 
 
 ### Articles
+- 2018/01/16 [RFID, UWB 등 다른 RTLS 기술과 Bluetooth RTLS의 비교](https://pntbiz.co.kr/index.php/2018/01/16/023/)
 
 
 ### Information
 - [What is Bluetooth RTLS?](https://kontakt.io/what-is-bluetooth-rtls/)
-- [RFID, UWB 등 다른 RTLS 기술과 Bluetooth RTLS의 비교](https://pntbiz.co.kr/index.php/2018/01/16/023/)
 
 
 ### Open Source
