@@ -3,6 +3,7 @@
 
 ### Articles
 - 2021/01/25 [How Bluetooth + Ultrasound = Better RTLS Accuracy and Lower Cost](https://www.airfinder.com/blog/bluetooth-ultrasound-better-rtls-accuracy-lower-cost)
+- 2019/10/09 [Bluetooth for RTLS: Coverage vs Range](https://www.quuppa.com/bluetooth-for-rtls-coverage-vs-range/)
 - 2018/01/16 [RFID, UWB 등 다른 RTLS 기술과 Bluetooth RTLS의 비교](https://pntbiz.co.kr/index.php/2018/01/16/023/)
 
 
