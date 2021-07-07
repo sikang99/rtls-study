@@ -11,6 +11,10 @@
 - [What is Bluetooth RTLS?](https://kontakt.io/what-is-bluetooth-rtls/)
 
 
+### Vendors
+- [geoplan](http://geoplan.host.whoisweb.net/) - BLE 5.0 RTLS
+
+
 ### Open Source
 
 
