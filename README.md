@@ -15,6 +15,7 @@
 ### Vendors
 - [geoplan](http://geoplan.host.whoisweb.net/) - BLE/UWB RTLS
 - [SEWIO](https://www.sewio.net/) - UWB RTLS
+- [rtlsuwb](https://rtlsuwb.com/)
 
 
 ### Open Source
