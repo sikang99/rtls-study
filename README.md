@@ -7,6 +7,7 @@
 - 2021/06/03 [UWB AirTag Technology: Does It Make Sense for Asset Tracking?](https://www.link-labs.com/blog/uwb-airtag-technology-does-it-make-sense-asset-tracking)
 - 2021/05/24 [Ultra-Wideband vs. Bluetooth Low Energy](https://www.airfinder.com/blog/ultra-wideband-vs-bluetooth-low-energy)
 - 2021/01/25 [How Bluetooth + Ultrasound = Better RTLS Accuracy and Lower Cost](https://www.airfinder.com/blog/bluetooth-ultrasound-better-rtls-accuracy-lower-cost)
+- 2021/01/20 [The Future of Indoor GPS: Why Apple Is Betting on the UWB Location Chip](https://marketscale.com/industries/building-management/the-future-of-indoor-gps-why-apple-is-betting-on-the-uwb-location-chip/)
 - 2021/01/04 [Location, Location, Location: The Road to Ultra-Wideband](https://www.qorvo.com/design-hub/blog/road-to-ultra-wideband)
 - 2020/11/30 [Fighting the Consequences of Coronavirus Using RTLS](https://blog.andersenlab.com/en/fighting-the-consequences-of-coronavirus-using-rtls/)
 - 2020/10/23 [**Why Real Time Locating is Becoming More Popular**](https://www.beaconzone.co.uk/blog/why-real-time-locating-is-becoming-more-popular/)
