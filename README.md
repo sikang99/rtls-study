@@ -11,6 +11,9 @@
 - 2021/01/04 [Location, Location, Location: The Road to Ultra-Wideband](https://www.qorvo.com/design-hub/blog/road-to-ultra-wideband)
 - 2020/11/30 [Fighting the Consequences of Coronavirus Using RTLS](https://blog.andersenlab.com/en/fighting-the-consequences-of-coronavirus-using-rtls/)
 - 2020/10/23 [**Why Real Time Locating is Becoming More Popular**](https://www.beaconzone.co.uk/blog/why-real-time-locating-is-becoming-more-popular/)
+- 2020/06/03 [RTLS 기술의 발전 (1/4)편](https://m.blog.naver.com/rakisisj/221999685301)
+    - 2020/08/28 [RTLS 기술의 발전 (2/4)편 - AOA (Angle of Arrival)](https://m.blog.naver.com/rakisisj/222073090671)
+    - 2020/09/14 [RTLS 기술의 발전 (3/4)편 - 측위 기술 ( RTLS Methodologies )](https://m.blog.naver.com/rakisisj/222089204414)
 - 2019/10/09 [Bluetooth for RTLS: Coverage vs Range](https://www.quuppa.com/bluetooth-for-rtls-coverage-vs-range/)
 - 2019/07/29 [New RTLS Module to Cut Active UWB Tag Cost](https://www.rfidjournal.com/new-rtls-module-to-cut-active-uwb-tag-cost)
 - 2019/03/08 [UWB 위치 측위를 위한 기술 비교](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=intknk2&logNo=221483405252)
@@ -20,6 +23,7 @@
 ### Information
 - [What is Bluetooth RTLS?](https://kontakt.io/what-is-bluetooth-rtls/)
 - [Why is UWB better than other signals for indoor/industrial RTLS?](https://www.redpointpositioning.com/why-uwb-better/)
+- [The Future of Indoor GPS: Why Apple Is Betting on the UWB Location Chip](https://www.redpointpositioning.com/the-future-of-indoor-gps/)
 
 
 ### Vendors
