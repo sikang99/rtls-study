@@ -6,6 +6,7 @@
 ### Articles
 - 2021/01/25 [How Bluetooth + Ultrasound = Better RTLS Accuracy and Lower Cost](https://www.airfinder.com/blog/bluetooth-ultrasound-better-rtls-accuracy-lower-cost)
 - 2021/01/04 [Location, Location, Location: The Road to Ultra-Wideband](https://www.qorvo.com/design-hub/blog/road-to-ultra-wideband)
+- 2020/10/23 [Why Real Time Locating is Becoming More Popular](https://www.beaconzone.co.uk/blog/why-real-time-locating-is-becoming-more-popular/)
 - 2019/10/09 [Bluetooth for RTLS: Coverage vs Range](https://www.quuppa.com/bluetooth-for-rtls-coverage-vs-range/)
 - 2019/07/29 [New RTLS Module to Cut Active UWB Tag Cost](https://www.rfidjournal.com/new-rtls-module-to-cut-active-uwb-tag-cost)
 - 2019/03/08 [UWB 위치 측위를 위한 기술 비교](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=intknk2&logNo=221483405252)
@@ -28,6 +29,7 @@
 
 
 ### Slides
+- 2021 [UWB기반 초정밀 RTLS 솔루션](https://img1.wsimg.com/blobby/go/fd5cf05b-4dd2-4d32-b0d6-959629e4fbf7/Sparkling_UWB_March2021-0001.pdf)
 - [Comparing RTLS infrastructure: Weighing Bluetooth and Competitors](https://cdn2.hubspot.net/hubfs/556697/_Kontakt.io%20and%20Simon%20Whitepapers/WhP%3B%20Kontakt.io%3B%20Comparing%20RTLS%20Infrastructure_%20Weighing%20Bluetooth%20and%20Competitors.pdf.pdf)
 
 
