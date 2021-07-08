@@ -30,6 +30,10 @@
 ### Open Source
 
 
+### Videos
+- 2021 [CES 2021 Complement Event: Ultra wideband technology for industrial RTLS](https://www.youtube.com/watch?v=7KBh59e8s4I)
+
+
 ### Slides
 - 2021 [UWB기반 초정밀 RTLS 솔루션](https://img1.wsimg.com/blobby/go/fd5cf05b-4dd2-4d32-b0d6-959629e4fbf7/Sparkling_UWB_March2021-0001.pdf)
 - [Comparing RTLS infrastructure: Weighing Bluetooth and Competitors](https://cdn2.hubspot.net/hubfs/556697/_Kontakt.io%20and%20Simon%20Whitepapers/WhP%3B%20Kontakt.io%3B%20Comparing%20RTLS%20Infrastructure_%20Weighing%20Bluetooth%20and%20Competitors.pdf.pdf)
