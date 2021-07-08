@@ -4,6 +4,7 @@
 
 
 ### Articles
+- 2021/06/03 [UWB AirTag Technology: Does It Make Sense for Asset Tracking?](https://www.link-labs.com/blog/uwb-airtag-technology-does-it-make-sense-asset-tracking)
 - 2021/01/25 [How Bluetooth + Ultrasound = Better RTLS Accuracy and Lower Cost](https://www.airfinder.com/blog/bluetooth-ultrasound-better-rtls-accuracy-lower-cost)
 - 2021/01/04 [Location, Location, Location: The Road to Ultra-Wideband](https://www.qorvo.com/design-hub/blog/road-to-ultra-wideband)
 - 2020/11/30 [Fighting the Consequences of Coronavirus Using RTLS](https://blog.andersenlab.com/en/fighting-the-consequences-of-coronavirus-using-rtls/)
