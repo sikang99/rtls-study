@@ -47,6 +47,7 @@
 
 ### Papers
 - 2021 [Distance Measurements in UWB-Radio Localization Systems Corrected with a Feedforward Neural Network Model](https://www.mdpi.com/1424-8220/21/7/2294/pdf)
+- 2020 [A Study on UWB-Aided Localization for Multi-UAV Systems in GNSS-Denied Environments](https://www.utupub.fi/bitstream/handle/10024/150452/Carmen_Martinez_Master_Thesis_UWB_Localization_Study.pdf)
 
 ### Books
 
